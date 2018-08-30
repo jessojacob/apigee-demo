@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<APIProxy revision="1" name="Source-Control-Demo">
+<APIProxy revision="2" name="Source-Control-Demo">
     <Basepaths>/v1/source-control-demo</Basepaths>
     <ConfigurationVersion majorVersion="4" minorVersion="0"/>
-    <CreatedAt>1535635536146</CreatedAt>
+    <CreatedAt>1535637137849</CreatedAt>
     <CreatedBy>jessojacob01@gmail.com</CreatedBy>
     <Description></Description>
     <DisplayName>Source-Control-Demo</DisplayName>
-    <LastModifiedAt>1535635594842</LastModifiedAt>
+    <LastModifiedAt>1535637137849</LastModifiedAt>
     <LastModifiedBy>jessojacob01@gmail.com</LastModifiedBy>
-    <ManifestVersion>SHA-512:a86bbf7165cb144106ded9534681a1d8b4e3107bcb6a92669f7343709c4cb1cb7c986a613c843ee28607860665a039c619076cec47f3719b8877a8934c8dad97</ManifestVersion>
-    <Policies/>
+    <ManifestVersion>SHA-512:357f0d32ad875466e3bf775a54e6e8bb6fb9c90773c2d5caa45c5b87dd882eca97acad8bd1c0582a0341bd0457c51d7d10fb19ca95e262e56753750e59a3a04c</ManifestVersion>
+    <Policies>
+        <Policy>Verify-API-Key-1</Policy>
+    </Policies>
     <ProxyEndpoints>
         <ProxyEndpoint>default</ProxyEndpoint>
     </ProxyEndpoints>
